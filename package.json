@@ -1,0 +1,23 @@
+{
+  "name": "crud-backend-mongodb",
+  "version": "1.0.0",
+  "description": "CRUD mongoDB exmample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonio-Cituk/crud-backend-mongodb.git"
+  },
+  "author": "Antonio Cituk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antonio-Cituk/crud-backend-mongodb/issues"
+  },
+  "homepage": "https://github.com/Antonio-Cituk/crud-backend-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "monk": "^7.3.2"
+  }
+}
